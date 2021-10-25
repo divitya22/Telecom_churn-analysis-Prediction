@@ -1,1 +1,1 @@
-# Telecom_churn-analysis-Prediction
+# Telecom_churn-analysis/Prediction
